@@ -28,9 +28,12 @@ add network adapter
 
 5.Start psSense in browser
 
-![image](https://github.com/thanawut2903/pfSense-install/assets/159118913/235f01ef-f281-4236-9288-8e4960f6c13c)
+![image](https://github.com/thanawut2903/pfSense-install/assets/159118913/214dcfac-e9e1-4f10-9352-c9c195d3520d)
 
-![image](https://github.com/thanawut2903/pfSense-install/assets/159118913/a179b012-6dde-4ec9-9dde-6529d879700a)
+
+![image](https://github.com/thanawut2903/pfSense-install/assets/159118913/1dae6f5c-5851-415d-aad1-297b00b8b522)
+
+Reference form : https://www.youtube.com/watch?v=p09ggIHt2j4
 
 
 
