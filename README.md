@@ -1,4 +1,7 @@
 # pfSense-install
+
+pfSense คือระบบปฏิบัติการที่มุ่งเน้นการทำงานเป็น Firewall และ Router โดยมีพื้นฐานมาจาก FreeBSD ระบบนี้มีความยืดหยุ่นและสามารถปรับแต่งให้เหมาะสมกับการใช้งานในหลาย ๆ รูปแบบ
+
 1.install psSense in VM ware
 
 ![image](https://github.com/thanawut2903/pfSense-install/assets/159118913/12342c4e-16a1-428e-87e1-e657ab3d18b1)
